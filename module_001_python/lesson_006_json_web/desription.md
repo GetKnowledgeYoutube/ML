@@ -1,4 +1,4 @@
-# Работа с файлами с директориями. CSV
-Видео на Youtube - https://youtu.be/MQyukGtYq_M
+# JSON и Http requests
+Видео на Youtube - https://youtu.be/QQSdqJ-wKP8
 
-ДЗ - https://youtu.be/sQpL156_u4I
+ДЗ - https://youtu.be/6mZdTSZ_Do8
