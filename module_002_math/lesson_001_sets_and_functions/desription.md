@@ -1,4 +1,4 @@
-# Строковые и числовые типы данных
-Видео на Youtube - https://www.youtube.com/watch?v=MGNOJ-LDD5k&list=PLbmlzoDQrXVF8ldeW1WehZx6Ii2zhDV_L&index=4
+# Функции и множества
+Видео на Youtube - https://youtu.be/5kihZrpHPxM
 
-ДЗ - https://www.youtube.com/watch?v=RfVytNPr82A&feature=youtu.be
+ДЗ - https://youtu.be/Q2oiGe5jSjs
